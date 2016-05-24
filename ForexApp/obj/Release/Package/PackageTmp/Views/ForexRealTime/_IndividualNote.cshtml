@@ -1,0 +1,50 @@
+﻿@model ForexApp.Models.IndividualNote
+
+<div class="large-12 medium-12 columns typeModal" id="IndividualNote">
+    <h2 class="modalTitle">Mis notas</h2>
+    <p class="lead">Aquí puedes dejar una nota que te sea de utilidad para tu aprendizaje</p>
+    <span class="loadImg" id="loadImgNote"></span>  
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Nota:</legend>
+
+        <div class="row">
+            @Html.LabelFor(model => model.NoteTitle)
+        </div>
+        <div class="row">
+            @Html.EditorFor(model => model.NoteTitle, new { @class = "NoteTitle2" })
+            @Html.ValidationMessageFor(model => model.NoteTitle)
+        </div>
+
+        <div class="row">
+            @Html.LabelFor(model => model.Note)
+        </div>
+        <div class="row">
+            @Html.EditorFor(model => model.Note, new { @class = "Note2" })
+            @Html.ValidationMessageFor(model => model.Note)
+        </div>
+
+        <p>
+            <input id="sendNote" type="submit" value="Crear" class="medium button success"/>
+        </p>
+    </fieldset>
+}
+</div>
+
+
+<div class="reveal-modal" id="info-modalNote" data-reveal>
+    <h2 class="modalTitle">Mensaje:</h2>
+    <p class="lead" id="infoNoteMessage"></p>
+    </br>
+    <button id="infoSendNote" class="close medium button">Aceptar</button>
+    <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+</div>
+
+@Scripts.Render("~/bundles/jqueryval")
+@Scripts.Render("~/bundles/jqueryvalunobtrusive")
+@Scripts.Render("~/bundles/setNotes")

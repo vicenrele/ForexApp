@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8" />
+
+    @*Set the viewport width to device width for mobile *@
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>ForexApp</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+    @Styles.Render("~/Content/foundation/css")
+
+    @RenderSection("head", required: false)
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+
+</head>
+<body>
+
+    <nav class="top-bar" data-topbar role="navigation">
+      <ul class="title-area">
+        <li class="name">
+            <h1 id="titleApp">
+                <a href="@Url.Action("Index", "Home")">
+                   <img id="logImg" src="@Url.Content("~/Content/img/icono.png")" />Forex App
+                </a>
+            </h1>
+        </li>
+         <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+      </ul>
+
+      <section class="top-bar-section">
+        <!-- Right Nav Section -->
+        <ul class="right">
+          <li>@Html.ActionLink("SOBRE MÍ", "About", "Home")</li>
+          <li>@Html.ActionLink("CONTACTO", "Contact", "Home")</li>
+          @if (Request.IsAuthenticated){
+              <li class="has-dropdown">
+                <a href="#"><u>FUNCIONALIDADES</u></a>
+                <ul class="dropdown">
+                  <li>@Html.ActionLink("Cambio cruzado", "Index", "ForexRealTime")</li>
+                  <li>@Html.ActionLink("Históricos de divisas", "Index", "HistoricalForex")</li>
+                  <li>@Html.ActionLink("Cambio de divisas", "Index", "ExchangeRates")</li>
+                  <li>@Html.ActionLink("Tutoriales", "Index", "Tutorial")</li>
+                </ul>
+              </li>
+          }
+        </ul>
+
+        <!-- Left Nav Section -->
+        <ul class="left">
+             @Html.Partial("_LoginPartial")
+        </ul>
+      </section>
+    </nav>
+
+    <div class="row" id="bodyContent">
+        <div class="large-12 columns">
+            @RenderBody()
+        </div>
+    </div>
+
+    <footer>
+        <div class="alert-box info">
+            <span>Aplicación desarrollada por <a target="_blank" href="http://es.linkedin.com/in/victorenriqueelenaredondo/">Víctor Enrique Elena Redondo</a>.</span>
+        </div>
+    </footer>
+
+
+    @Scripts.Render("~/bundles/foundation")
+
+    <script>
+        $(document).foundation();
+    </script>
+    @*Use the Scripts section to define page specific scripts*@
+    @RenderSection("scripts", required: false)
+</body>
+</html>

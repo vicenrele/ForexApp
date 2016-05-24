@@ -1,0 +1,73 @@
+﻿@model ForexApp.Models.RatesNote
+
+<div class="large-12 medium-12 columns" id="RatesNote">
+    <h2 class="modalTitle">Guardar datos de divisas</h2>
+    <p class="lead">Puedes guardar los datos junto con una nota</p>
+    <span class="loadImg" id="loadImgRate"></span>  
+
+        <table id="setRateTable">
+          <thead>
+            <tr>
+              <th>Divisa</th>
+              <th>Bid</th>
+              <th>Ask</th>
+              <th>Spread</th>
+              <th>Hora</th>
+            </tr>
+          </thead>
+          <tbody id="rateTable">
+              <tr>
+                  <td id="Rate"></td>
+                  <td id="Bid"></td>
+                  <td id="Ask"></td>
+                  <td id="Spread"></td>
+                  <td id="Hour"></td>
+              </tr>
+          </tbody>
+        </table>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Nota:</legend>
+
+        <div class="row">
+            @Html.LabelFor(model => model.NoteTitleRate)
+        </div>
+        <div class="row">
+            @Html.EditorFor(model => model.NoteTitleRate)
+            @Html.ValidationMessageFor(model => model.NoteTitleRate)
+        </div>
+
+        <div class="row">
+            @Html.LabelFor(model => model.NoteRate)
+        </div>
+        <div class="row">
+            @Html.EditorFor(model => model.NoteRate)
+            @Html.ValidationMessageFor(model => model.NoteRate)
+        </div>
+
+        <p>
+            <input id="sendRateNote" type="submit" value="Guardar" class="medium button success"/>
+        </p>
+    </fieldset>
+}
+</div>
+
+
+<div class="reveal-modal" id="info-modalRate" data-reveal>
+    <h2 class="modalTitle">Mensaje:</h2>
+    <p class="lead" id="infoRateMessage"></p>
+    </br>
+    <button id="infoSendRate" class="close medium button">Aceptar</button>
+    <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+</div>
+
+
+@Scripts.Render("~/bundles/jqueryval")
+@Scripts.Render("~/bundles/jqueryvalunobtrusive")
+@Scripts.Render("~/bundles/setRates")

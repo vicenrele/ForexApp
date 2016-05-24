@@ -1,0 +1,114 @@
+﻿
+<div class="large-8 medium-8 columns">
+    <h2>Cambio cruzado</h2>
+
+    <a href="#" class="button round spand" id="myNotes" >Mis notas</a>
+    <a href="#" class="button round spand" id="createNotes" >Crear Nota</a>
+    <h4 class="titleRate" id="eur">EUR</h4>
+
+    <!-- Set data modal -->
+    <div id="first-modal-note" class="reveal-modal" data-reveal>
+        @Html.Partial("_IndividualNote")
+        <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+    </div>
+
+    <!-- List modal -->
+    <div id="list-notes" class="reveal-modal" data-reveal>
+        @Html.Partial("_IndividualNotesList")
+        <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+    </div>
+
+    <!-- Rate modal -->
+    <div id="rate-notes" class="reveal-modal" data-reveal>
+        @Html.Partial("_RatesNote")
+        <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+    </div>
+
+    <!-- List Rate modal -->
+    <div id="list-rates" class="reveal-modal" data-reveal>
+        @Html.Partial("_RatesNotesList")
+        <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+    </div>
+
+    <!-- Rates compare -->
+    <div id="rates-compare" class="reveal-modal" data-reveal>
+        @Html.Partial("_RatesCompare")
+        <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+    </div>
+
+    <table id="forexTable">
+      <thead>
+        <tr id="particularRate">
+          <th>Divisa</th>
+          <th>Bid</th>
+          <th>Ask</th>
+          <th>Spread</th>
+        </tr>
+      </thead>
+      <tbody id="rates">
+
+      </tbody>
+    </table>
+
+</div>
+
+
+
+<div class="large-4 medium-4 columns" id="lateralForexRealTime">
+    <div data-alert class="alert-box warning" tabindex="0" aria-live="assertive" role="alertdialog">
+      Puedes ver el nombre completo de la divisa pasando el cursor sobre sus iniciales.
+      <button tabindex="0" class="close" aria-label="Close Alert">&times;</button>
+    </div>
+
+    <div class="panel">
+        <h5>Listado de divisas guardadas</h5>
+        <button id="ratesList" class="button round spand">Listado</button>
+    </div>
+
+    <div class="panel">
+        <label>Frecuencia de actualización:</label>
+        <select id="granularity">
+            <option value="S5">5 segundos</option>
+            <option value="S10">10 segundos</option>
+            <option value="S30">30 segundo</option>
+            <option value="M1">Un minuto</option>
+            <option value="M2">2 minutos</option>
+            <option value="M3">3 minutos</option>
+            <option value="M4">4 minutos</option>
+            <option value="M5">5 minutos</option>
+            <option value="M10">10 minutos</option>
+            <option value="M15">15 minutos</option>
+            <option value="M30">30 minutos</option>
+            <option value="H1">Una hora</option>
+            <option value="H2">2 horas</option>
+            <option value="H4">4 horas</option>
+            <option value="H6">6 horas</option>
+            <option value="H8">8 horas</option>
+            <option value="H12">12 horas</option>
+        </select>
+    </div>
+
+    <div class="panel">
+        <h5>Actualizar manualmente</h5>
+        <button id="refresh" class="medium button success">Refrescar</button>
+    </div>
+
+    <div class="panel">
+        <h5>Actualizar automáticamente</h5>
+        <button id="autoRefresh" class="medium button">Refrescar</button>
+    </div>
+
+    <div class="panel">
+        <h5>Nota:</h5>
+        <p>La API utilizada para extraer los datos aporta bastante fiabilidad. Sin embargo, al tratarse de una API gratuita, es posible que en alguna ocasión
+            se produzca algún error 409 por exceso de peticiones. Con la versión de pago este problema no existe.
+        </p>
+    </div>
+</div>
+@Scripts.Render("~/bundles/manageNotes")
+@Scripts.Render("~/bundles/forex")
+@Scripts.Render("~/bundles/getDelUpdtRates")
+@Scripts.Render("~/bundles/getDelUpdtNotes")
+@Scripts.Render("~/bundles/mainRealTime")
+
+

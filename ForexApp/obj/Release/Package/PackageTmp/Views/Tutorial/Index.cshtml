@@ -1,0 +1,68 @@
+﻿<div class="row">
+    <div class="large-12 columns">
+        <h2>Tutoriales. Aprende Forex</h2>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="large-12 medium-12 columns">
+
+        <div class="row">
+            <div class="large-12 columns">
+                <div class="callout panel">
+                    <p>La aplicación <strong>ForexApp</strong> proporciona al usuario una serie de tutoriales tanto de aprendizaje de uso de la propia aplicación como de aprendizaje sobre Mercado Forex.
+                        ForexApp es una aplicación de índole educativa y es por ello que ofrece este apartado.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="large-6 medium-6 columns">
+                <div class="callout panel">
+                    <img class="logContact" src="@Url.Content("~/Content/img/today.png")" /><h5><strong>Cambio cruzado de divisas</strong></h5>
+                    <p>Aprende el funcionamiento del "cambio cruzado" de divisas (de momento solo en relación al EUR). Toma apuntes, configura el listado en tiempo real...</p>
+                    @Html.ActionLink("Acceder", "TutCambioCruzado", "Tutorial", new {@class = "medium button" })
+                </div>
+            </div>
+            <div class="large-6 medium-6 columns">
+                <div class="callout panel">
+                    <img class="logContact" src="@Url.Content("~/Content/img/video.png")" /><h5><strong>Video Tutorial</strong></h5>
+                    <p>Curso sobre Mercado Forex para principiantes y avanzados. Análisis técnico financiero para invertir en Forex.</p>
+                    <a href="#" data-reveal-id="videoModal" class="medium button">Acceder</a>
+                </div>
+            </div>
+            <hr />
+
+            <div class="large-6 medium-6 columns">
+                <div class="callout panel">
+                    <img class="logContact" src="@Url.Content("~/Content/img/graficas.png")" /><h5><strong>Históricos de divisas</strong></h5>
+                    <p>Con ForexApp es posible consultar datos de divisas cruzadas de fechas pasadas, históricos comparativos de dos divisas a día 1 del mes, y todo ello mostrarlo en gráficas</p>
+                    @Html.ActionLink("Acceder", "TutHistoricalForex", "Tutorial", new {@class = "medium button" })
+                </div>
+            </div>
+
+            <div class="large-6 medium-6 columns">
+                <div class="callout panel">
+                    <img class="logContact" src="@Url.Content("~/Content/img/moneda.png")" /><h5><strong>Cambio de divisas</strong></h5>
+                    <p>ForexApp, aplicación educativa, permite realizar convertir divisas teniendo en cuenta los valores actuales. También se pueden guardar las conversiones para posteriores consultas.</p>
+                    @Html.ActionLink("Acceder", "TutExchangeRates", "Tutorial", new {@class = "medium button" })
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+       
+    
+   <!-- VIDEO TUTORIAL --> 
+    <div id="videoModal" class="reveal-modal large" data-reveal aria-labelledby="videoModalTitle" aria-hidden="true" role="dialog">
+      <h2 id="videoModalTitle">Curso de Mercado Forex</h2>
+      <div class="flex-video widescreen vimeo">
+        <iframe width="1280" height="720" src="https://www.youtube.com/embed/xY_0pq18DtQ" frameborder="0" allowfullscreen></iframe>
+      </div>
+
+      <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+    </div> 
+</div>
+

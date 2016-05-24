@@ -1,0 +1,310 @@
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\ForexApp.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\ForexApp.pdb
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\Antlr3.Runtime.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\DotNetOpenAuth.Core.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\EntityFramework.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\Microsoft.Data.Edm.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\Microsoft.Data.OData.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\Newtonsoft.Json.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Spatial.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.Helpers.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.Http.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.Http.OData.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.Mvc.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.Optimization.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.Razor.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.WebPages.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\WebGrease.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\WebMatrix.Data.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\WebMatrix.WebData.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\EntityFramework.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\Newtonsoft.Json.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.Helpers.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.Http.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.Mvc.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.Razor.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.WebPages.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\WebMatrix.Data.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\WebMatrix.WebData.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\DotNetOpenAuth.Core.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Web.Http.OData.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\Microsoft.Data.Edm.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\Microsoft.Data.OData.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\System.Spatial.xml
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\EntityFramework.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\System.Web.Http.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\System.Web.Razor.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\WebMatrix.Data.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\WebMatrix.WebData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\System.Web.Http.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\de\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\es\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\fr\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\it\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\ja\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\ko\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\ru\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\obj\Debug\ForexApp.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\obj\Debug\ForexApp.dll
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\obj\Debug\ForexApp.pdb
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\obj\Debug\ForexApp.Migrations.Initial.resources
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\obj\Debug\ForexApp.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PROYECTO\ForexApp\ForexApp\obj\Debug\ForexApp.Migrations.Initial1.resources
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\ForexApp.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\ForexApp.pdb
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\Antlr3.Runtime.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\DotNetOpenAuth.Core.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\EntityFramework.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\Microsoft.Data.Edm.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\Microsoft.Data.OData.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\Newtonsoft.Json.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Spatial.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.Helpers.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.Http.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.Http.OData.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.Mvc.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.Optimization.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.Razor.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.WebPages.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\WebGrease.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\WebMatrix.Data.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\WebMatrix.WebData.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\EntityFramework.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\Newtonsoft.Json.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.Helpers.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.Http.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.Mvc.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.Razor.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.WebPages.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\WebMatrix.Data.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\WebMatrix.WebData.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\DotNetOpenAuth.Core.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Web.Http.OData.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\Microsoft.Data.Edm.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\Microsoft.Data.OData.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\System.Spatial.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\EntityFramework.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\System.Web.Http.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\System.Web.Razor.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\WebMatrix.Data.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\WebMatrix.WebData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\System.Web.Http.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\de\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\es\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\fr\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\it\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\ja\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\ko\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\ru\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\obj\Debug\ForexApp.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\obj\Debug\ForexApp.Migrations.Initial.resources
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\obj\Debug\ForexApp.Migrations.Initial1.resources
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\obj\Debug\ForexApp.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\obj\Debug\ForexApp.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\obj\Debug\ForexApp.pdb
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia\ForexApp\ForexApp\obj\Debug\ForexApp.Migrations.Intitial.resources
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\ForexApp.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\ForexApp.pdb
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\Antlr3.Runtime.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\DotNetOpenAuth.Core.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\EntityFramework.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\Microsoft.Data.Edm.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\Microsoft.Data.OData.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\Newtonsoft.Json.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Spatial.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.Helpers.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.Http.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.Http.OData.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.Mvc.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.Optimization.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.Razor.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.WebPages.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\WebGrease.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\WebMatrix.Data.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\WebMatrix.WebData.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\EntityFramework.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\Newtonsoft.Json.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.Helpers.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.Http.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.Mvc.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.Razor.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.WebPages.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\WebMatrix.Data.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\WebMatrix.WebData.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\DotNetOpenAuth.Core.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Web.Http.OData.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\Microsoft.Data.Edm.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\Microsoft.Data.OData.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\System.Spatial.xml
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\EntityFramework.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\System.Web.Http.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\System.Web.Razor.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\WebMatrix.Data.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\WebMatrix.WebData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\System.Web.Http.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\de\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\es\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\fr\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\it\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\ja\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\ko\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\ru\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\obj\Debug\ForexApp.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\obj\Debug\ForexApp.Migrations.Initial.resources
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\obj\Debug\ForexApp.Migrations.Initial1.resources
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\obj\Debug\ForexApp.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\obj\Debug\ForexApp.dll
+C:\Users\Victor\Desktop\PROYECTO\copia antes de webApi - copia 6.2\ForexApp\ForexApp\obj\Debug\ForexApp.pdb

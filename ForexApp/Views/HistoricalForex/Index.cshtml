@@ -1,0 +1,71 @@
+﻿<h2 class="titlePage animated lightSpeedIn">Históricos de divisas</h2>
+
+<div class="large-4 medium-4 columns">
+    
+    <div class="panel">
+        <h5>Histórico comparativo de divisas del día 1 de cada mes</h5>
+        <p>Selecciona una divisa para comparar con EUR y un año.</p>
+        <select id="rate">
+            <option value="USD">Dólar estadounidense</option>
+            <option value="GBP">Libra esterlina</option>
+            <option value="AUD">Dólar australiano</option>
+            <option value="CAD">Dólar canadiense</option>
+            <option value="SGD">Dólar singapurense</option>
+            <option value="CHF">Franco suizo</option>
+            <option value="JPY">Yen japonés</option>
+            <option value="PLN">Zioty polaco</option>
+            <option value="HKD">Dólar de Hong Kong</option>
+            <option value="ZAR">Rand Sudafricano</option>
+            <option value="TRY">Lira Turca</option>
+            <option value="CZK">Corona Checa</option>
+            <option value="NZD">Dólar Neozelandés</option>
+            <option value="DKK">Corona Danesa</option>
+            <option value="HUF">Florín Húngaro</option>
+            <option value="NOK">Corona Noruega</option>
+            <option value="SEK">Corona Sueca</option>
+        </select>
+        <input id="yearRate" type="number" name="startDay" min="2003" max="2015" value="2003"/>
+        <button id="rangeDateRates" class="medium button success">Aceptar</button>
+    </div>
+
+    <div class="panel">
+        <h5>Cambio cruzado de divisas</h5>
+        <p>Selecciona una una fecha sobre la que hacer la consulta respecto al EUR.</p>
+        <input id="dateRate" type="date" name="aDay" min="2002-05-06">
+        <button id="dateRates" class="medium button success">Aceptar</button>
+    </div>
+
+    <div class="panel">
+        <h5>Nota:</h5>
+        <p>La API utilizada para extraer los datos es limitada por ser gratuita. Es por ello que el intervalo de años para obtener históricos es limitado
+            y el cambio cruzado solo es posible respecto al EUR (Euro).
+        </p>
+    </div>
+
+</div>
+
+
+
+<div class="large-8 medium-8 columns" id="lateralForexRealTime">  
+    <div class="myCharts" id="column3DChart"></div>
+    <div class="myCharts" id="lineChart"></div>
+</div>
+
+
+<div class="reveal-modal" id="info-historicalModal" data-reveal>
+    <h2 class="modalTitle">Mensaje:</h2>
+    <p class="lead" id="infoHistoricalMessage"></p>
+    </br>
+    <button id="infoHistoricalModal" class="close medium button">Aceptar</button>
+    <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+</div>
+
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/highcharts-3d.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+@Scripts.Render("~/bundles/useForexCharts")
+@Scripts.Render("~/bundles/forex")
+@Scripts.Render("~/bundles/mainHistoricalRates")
+@Scripts.Render("~/bundles/manageNotes")
+

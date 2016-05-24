@@ -1,0 +1,27 @@
+﻿@model ForexApp.Models.LocalPasswordModel
+@{
+    ViewBag.Title = "Administrar cuenta";
+}
+
+<hgroup class="title">
+    <h1 class="titlePage animated lightSpeedIn">@ViewBag.Title.</h1>
+</hgroup>
+
+<p class="message-success">@ViewBag.StatusMessage</p>
+
+<p>Ha iniciado sesión como <strong>@User.Identity.Name</strong>.</p>
+
+@if (ViewBag.HasLocalPassword)
+{
+    @Html.Partial("_ChangePasswordPartial")
+}
+else
+{ 
+    @Html.Partial("_SetPasswordPartial")
+}
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

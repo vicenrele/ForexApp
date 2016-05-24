@@ -1,0 +1,121 @@
+﻿
+<h2 class="titlePage animated lightSpeedIn">Cambio de divisas</h2>
+
+<div class="large-6 medium-6 columns">
+
+    <!-- List Exchange modal -->
+    <div id="list-exchange" class="reveal-modal" data-reveal>
+        @Html.Partial("_ExchangeList")
+        <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+    </div>
+
+    <div class="reveal-modal" id="info-exchangeModal" data-reveal>
+        <h2 class="modalTitle">Aviso:</h2>
+        <p class="lead" id="infoExchangelMessage"></p>
+        </br>
+        <button id="infoExchangeModal" class="close medium button">Aceptar</button>
+        <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+    </div>
+
+    <div class="panel">
+        <h5>Conversor</h5>
+        <p>Introduce una cantidad y dos divisas distintas.</p>
+        <div class="row collapse">
+            <div class="small-8 columns">
+              <input id="numberToConvert" type="number" placeholder="Cantidad">
+            </div>
+            <div class="small-4 columns">
+              <a href="#" class="button postfix" id="convertButton">Convertir</a>
+            </div>
+        </div>
+        <select id="rate1">
+            <option value="EUR">Euro</option>
+            <option value="USD">Dólar estadounidense</option>
+            <option value="GBP">Libra esterlina</option>
+            <option value="AUD">Dólar australiano</option>
+            <option value="CAD">Dólar canadiense</option>
+            <option value="SGD">Dólar singapurense</option>
+            <option value="CHF">Franco suizo</option>
+            <option value="JPY">Yen japonés</option>
+            <option value="PLN">Zioty polaco</option>
+            <option value="HKD">Dólar de Hong Kong</option>
+            <option value="ZAR">Rand Sudafricano</option>
+            <option value="TRY">Lira Turca</option>
+            <option value="CZK">Corona Checa</option>
+            <option value="NZD">Dólar Neozelandés</option>
+            <option value="DKK">Corona Danesa</option>
+            <option value="HUF">Florín Húngaro</option>
+            <option value="NOK">Corona Noruega</option>
+            <option value="SEK">Corona Sueca</option>
+        </select>
+        <div id="flagsConversion">
+            <span class="flagLeft"></span>
+            <img src="@Url.Content("~/Content/img/flecha.png")" />
+            <span class="flagRight"></span>
+        </div>
+        <select id="rate2">
+            <option value="USD">Dólar estadounidense</option>
+            <option value="EUR">Euro</option>
+            <option value="GBP">Libra esterlina</option>
+            <option value="AUD">Dólar australiano</option>
+            <option value="CAD">Dólar canadiense</option>
+            <option value="SGD">Dólar singapurense</option>
+            <option value="CHF">Franco suizo</option>
+            <option value="JPY">Yen japonés</option>
+            <option value="PLN">Zioty polaco</option>
+            <option value="HKD">Dólar de Hong Kong</option>
+            <option value="ZAR">Rand Sudafricano</option>
+            <option value="TRY">Lira Turca</option>
+            <option value="CZK">Corona Checa</option>
+            <option value="NZD">Dólar Neozelandés</option>
+            <option value="DKK">Corona Danesa</option>
+            <option value="HUF">Florín Húngaro</option>
+            <option value="NOK">Corona Noruega</option>
+            <option value="SEK">Corona Sueca</option>
+        </select>
+        <p>*Nota: La conversión se realizará según la última actualización aportada por el <a target="_blank" href="http://www.ecb.europa.eu/stats/exchange/eurofxref/html/index.en.html" >BCE</a>. <span id="dateBCE"></span></p>
+    </div>
+
+    <div class="panel">
+        <h5>Registros</h5>
+        <p>Es posible consultar los registros de consultas hechas sobre cambio de divisas que hayas realizado
+            en una fecha determinada.
+        </p>
+        <button id="listExchanges" class="button round spand">Listado</button>
+    </div>
+
+</div>
+
+
+
+<div class="large-6 medium-6 columns">  
+    <div class="myCharts" id="gauge"></div>
+
+    <div class="panel">
+        <h5>Notas sobre la divisa a convertir en comparación al resultado:</h5>
+        <div>
+            <span id="colorGreen" class="conversionLeyend"></span><span>Tiene valores muy por encima</span>
+        </div>
+        <div>
+            <span id="colorYellow" class="conversionLeyend"></span><span>Tiene valores bastante similares</span>
+        </div>
+        <div>
+            <span id="colorOrange" class="conversionLeyend"></span><span>Tiene valores algo por debajo</span>
+        </div>
+        <div>
+            <span id="colorRed" class="conversionLeyend"></span><span>La divisa tiene un valor muy por debajo</span>
+        </div>
+    </div>
+</div>
+
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/highcharts-more.js"></script>
+<script src="https://code.highcharts.com/modules/solid-gauge.js"></script>
+
+@Scripts.Render("~/bundles/manageNotes")
+@Scripts.Render("~/bundles/money")
+@Scripts.Render("~/bundles/forex")
+@Scripts.Render("~/bundles/useForexCharts")
+@Scripts.Render("~/bundles/exchange")
+@Scripts.Render("~/bundles/getDelUpdtExchanges")

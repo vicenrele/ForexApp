@@ -1,0 +1,1250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAtDp4P4xKjEi035aRoOZl5AAAAAACAAAAAAAQZgAAAAEAACAAAAAxvO1gf0nSvYyMI063gOwX55J4CPPMcPj8u4iC8uuxkAAAAAAOgAAAAAIAACAAAACcFsOtEyutlgAivgzdpn8XehPl4vo9stLLIIFqXOVATiAAAAArHiZC7QZnlviY7cRDXd4xAGmCZUZOZGVVGSZOJcNcI0AAAAB1pmxACQYlJ+Luu3qNdYzp8umrLaaN36CEhvzhy4qrpbzZZ2wizvPiWxQNVY4eefvxSTbmtw/lL+0vLY2C1G+X</EncryptedPassword>
+    <_PublishTargetUrl>ftp://utilesforex.somee.com/www.utilesforex.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Readme/Foundation for sites/readme.md">
+      <publishTime>05/13/2016 18:54:36</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>05/13/2016 18:40:53</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Edm.resources.dll">
+      <publishTime>05/13/2016 18:40:47</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.OData.resources.dll">
+      <publishTime>05/13/2016 18:40:49</publishTime>
+    </File>
+    <File Include="bin/de/System.Spatial.resources.dll">
+      <publishTime>05/13/2016 18:40:45</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.AspNet.dll">
+      <publishTime>05/13/2016 18:40:39</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.Core.dll">
+      <publishTime>05/13/2016 18:40:40</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.Consumer.dll">
+      <publishTime>05/13/2016 18:40:41</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.dll">
+      <publishTime>05/13/2016 18:40:42</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.dll">
+      <publishTime>05/13/2016 18:40:43</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.RelyingParty.dll">
+      <publishTime>05/13/2016 18:40:44</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>05/13/2016 18:40:07</publishTime>
+    </File>
+    <File Include="bin/es/EntityFramework.resources.dll">
+      <publishTime>05/13/2016 18:41:04</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Edm.resources.dll">
+      <publishTime>05/13/2016 18:40:47</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.OData.resources.dll">
+      <publishTime>05/13/2016 18:40:49</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Web.WebPages.OAuth.resources.dll">
+      <publishTime>05/13/2016 18:41:03</publishTime>
+    </File>
+    <File Include="bin/es/System.Net.Http.Formatting.resources.dll">
+      <publishTime>05/13/2016 18:41:00</publishTime>
+    </File>
+    <File Include="bin/es/System.Spatial.resources.dll">
+      <publishTime>05/13/2016 18:40:45</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Helpers.resources.dll">
+      <publishTime>05/13/2016 18:40:57</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Http.OData.resources.dll">
+      <publishTime>05/13/2016 18:41:05</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Http.resources.dll">
+      <publishTime>05/13/2016 18:40:58</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Http.WebHost.resources.dll">
+      <publishTime>05/13/2016 18:40:59</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Mvc.resources.dll">
+      <publishTime>05/13/2016 18:40:57</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Optimization.resources.dll">
+      <publishTime>05/13/2016 18:41:01</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Razor.resources.dll">
+      <publishTime>05/13/2016 18:40:56</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.WebPages.Deployment.resources.dll">
+      <publishTime>05/13/2016 18:40:57</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.WebPages.Razor.resources.dll">
+      <publishTime>05/13/2016 18:40:57</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.WebPages.resources.dll">
+      <publishTime>05/13/2016 18:40:57</publishTime>
+    </File>
+    <File Include="bin/es/WebMatrix.Data.resources.dll">
+      <publishTime>05/13/2016 18:41:02</publishTime>
+    </File>
+    <File Include="bin/es/WebMatrix.WebData.resources.dll">
+      <publishTime>05/13/2016 18:41:03</publishTime>
+    </File>
+    <File Include="bin/ForexApp.dll">
+      <publishTime>05/22/2016 19:46:53</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Edm.resources.dll">
+      <publishTime>05/13/2016 18:40:47</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.OData.resources.dll">
+      <publishTime>05/13/2016 18:40:49</publishTime>
+    </File>
+    <File Include="bin/fr/System.Spatial.resources.dll">
+      <publishTime>05/13/2016 18:40:45</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Edm.resources.dll">
+      <publishTime>05/13/2016 18:40:47</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.OData.resources.dll">
+      <publishTime>05/13/2016 18:40:49</publishTime>
+    </File>
+    <File Include="bin/it/System.Spatial.resources.dll">
+      <publishTime>05/13/2016 18:40:45</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Edm.resources.dll">
+      <publishTime>05/13/2016 18:40:47</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.OData.resources.dll">
+      <publishTime>05/13/2016 18:40:49</publishTime>
+    </File>
+    <File Include="bin/ja/System.Spatial.resources.dll">
+      <publishTime>05/13/2016 18:40:45</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Edm.resources.dll">
+      <publishTime>05/13/2016 18:40:47</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.OData.resources.dll">
+      <publishTime>05/13/2016 18:40:49</publishTime>
+    </File>
+    <File Include="bin/ko/System.Spatial.resources.dll">
+      <publishTime>05/13/2016 18:40:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Edm.dll">
+      <publishTime>05/13/2016 18:40:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.OData.dll">
+      <publishTime>05/13/2016 18:40:49</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>05/13/2016 18:40:27</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>05/13/2016 18:40:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.WebPages.OAuth.dll">
+      <publishTime>05/13/2016 18:40:38</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>05/13/2016 18:40:28</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Edm.resources.dll">
+      <publishTime>05/13/2016 18:40:47</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.OData.resources.dll">
+      <publishTime>05/13/2016 18:40:49</publishTime>
+    </File>
+    <File Include="bin/ru/System.Spatial.resources.dll">
+      <publishTime>05/13/2016 18:40:45</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>05/13/2016 18:40:33</publishTime>
+    </File>
+    <File Include="bin/System.Spatial.dll">
+      <publishTime>05/13/2016 18:40:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>05/13/2016 18:40:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>05/13/2016 18:40:34</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.OData.dll">
+      <publishTime>05/13/2016 18:40:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>05/13/2016 18:40:35</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>05/13/2016 18:40:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>05/13/2016 18:40:36</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>05/13/2016 18:40:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>05/13/2016 18:40:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>05/13/2016 18:40:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>05/13/2016 18:40:30</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>05/13/2016 18:40:53</publishTime>
+    </File>
+    <File Include="bin/WebMatrix.Data.dll">
+      <publishTime>05/13/2016 18:40:37</publishTime>
+    </File>
+    <File Include="bin/WebMatrix.WebData.dll">
+      <publishTime>05/13/2016 18:40:38</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.Edm.resources.dll">
+      <publishTime>05/13/2016 18:40:47</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.OData.resources.dll">
+      <publishTime>05/13/2016 18:40:49</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Spatial.resources.dll">
+      <publishTime>05/13/2016 18:40:45</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Edm.resources.dll">
+      <publishTime>05/13/2016 18:40:47</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.OData.resources.dll">
+      <publishTime>05/13/2016 18:40:49</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/System.Spatial.resources.dll">
+      <publishTime>05/13/2016 18:40:45</publishTime>
+    </File>
+    <File Include="Content/foundation/foundation.css">
+      <publishTime>05/22/2016 18:54:37</publishTime>
+    </File>
+    <File Include="Content/foundation/foundation.mvc.css">
+      <publishTime>05/13/2016 18:54:35</publishTime>
+    </File>
+    <File Include="Content/foundation/normalize.css">
+      <publishTime>05/13/2016 18:54:33</publishTime>
+    </File>
+    <File Include="Content/grid.css">
+      <publishTime>05/19/2016 14:05:21</publishTime>
+    </File>
+    <File Include="Content/grid.min.css">
+      <publishTime>05/17/2016 10:05:19</publishTime>
+    </File>
+    <File Include="Content/img/banderas/aed.png">
+      <publishTime>05/13/2016 18:55:09</publishTime>
+    </File>
+    <File Include="Content/img/banderas/afn.png">
+      <publishTime>05/13/2016 18:55:09</publishTime>
+    </File>
+    <File Include="Content/img/banderas/all.png">
+      <publishTime>05/13/2016 18:55:09</publishTime>
+    </File>
+    <File Include="Content/img/banderas/amd.png">
+      <publishTime>05/13/2016 18:55:09</publishTime>
+    </File>
+    <File Include="Content/img/banderas/ang.png">
+      <publishTime>05/13/2016 18:55:09</publishTime>
+    </File>
+    <File Include="Content/img/banderas/aoa.png">
+      <publishTime>05/13/2016 18:55:09</publishTime>
+    </File>
+    <File Include="Content/img/banderas/ars.png">
+      <publishTime>05/13/2016 18:55:09</publishTime>
+    </File>
+    <File Include="Content/img/banderas/aud.png">
+      <publishTime>05/13/2016 18:55:09</publishTime>
+    </File>
+    <File Include="Content/img/banderas/awg.png">
+      <publishTime>05/13/2016 18:55:09</publishTime>
+    </File>
+    <File Include="Content/img/banderas/azn.png">
+      <publishTime>05/13/2016 18:55:09</publishTime>
+    </File>
+    <File Include="Content/img/banderas/bam.png">
+      <publishTime>05/13/2016 18:55:09</publishTime>
+    </File>
+    <File Include="Content/img/banderas/bbd.png">
+      <publishTime>05/13/2016 18:55:09</publishTime>
+    </File>
+    <File Include="Content/img/banderas/bdt.png">
+      <publishTime>05/13/2016 18:55:09</publishTime>
+    </File>
+    <File Include="Content/img/banderas/bgn.png">
+      <publishTime>05/13/2016 18:55:09</publishTime>
+    </File>
+    <File Include="Content/img/banderas/bhd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/bif.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/bmd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/bnd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/bob.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/brl.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/bsd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/btn.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/bwp.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/byr.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/bzd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/cad.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/cdf.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/chf.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/clp.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/cny.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/cop.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/crc.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/cuc.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/cup.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/cve.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/czk.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/djf.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/dkk.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/dop.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/dzd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/egp.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/ern.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/etb.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/eur.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/fjd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/fkp.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/gbp.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/gel.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/ggp.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/ghs.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/gip.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/gmd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/gnf.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/gtq.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/gyd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/hkd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/hnl.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/hrk.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/htg.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/huf.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/idr.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/ils.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/imp.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/inr.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/iqd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/irr.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/isk.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/jep.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/jmd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/jod.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/jpy.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/kes.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/kgs.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/khr.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/kmf.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/kpw.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/krw.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/kwd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/kyd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/kzt.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/lak.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/lbp.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/lkr.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/lrd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/lsl.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/lyd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/mad.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/mdl.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/mga.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/mkd.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/mmk.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/mnt.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/mop.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/mro.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/mur.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/mvr.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/mwk.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/mxn.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/myr.png">
+      <publishTime>05/13/2016 18:55:10</publishTime>
+    </File>
+    <File Include="Content/img/banderas/mzn.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/nad.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/ngn.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/nio.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/nok.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/npr.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/nzd.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/omr.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/pab.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/pen.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/pgk.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/php.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/pkr.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/pln.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/pyg.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/qar.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/ron.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/rsd.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/rub.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/rwf.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/sar.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/sbd.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/scr.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/sdg.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/sek.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/sgd.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/shp.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/sll.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/sos.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/spl.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/srd.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/std.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/svc.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/syp.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/szl.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/thb.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/tjs.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/tmt.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/tnd.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/top.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/try.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/ttd.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/tvd.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/twd.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/tzs.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/uah.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/ugx.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/usd.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/uyu.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/uzs.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/vef.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/vnd.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/vuv.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/wst.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/xaf.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/xag.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/xau.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/xcd.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/xdr.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/xof.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/xpd.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/xpf.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/xpt.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/yer.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/zar.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/zmw.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/banderas/zwd.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/calendario.png">
+      <publishTime>05/22/2016 16:52:12</publishTime>
+    </File>
+    <File Include="Content/img/day1.png">
+      <publishTime>05/20/2016 16:50:47</publishTime>
+    </File>
+    <File Include="Content/img/eliminar.png">
+      <publishTime>05/17/2016 13:43:08</publishTime>
+    </File>
+    <File Include="Content/img/email.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/graficaIndex.jpg">
+      <publishTime>05/22/2016 15:47:51</publishTime>
+    </File>
+    <File Include="Content/img/graficaIndex2.jpg">
+      <publishTime>05/22/2016 16:01:13</publishTime>
+    </File>
+    <File Include="Content/img/graficas.png">
+      <publishTime>05/19/2016 23:05:20</publishTime>
+    </File>
+    <File Include="Content/img/icono.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/imprimir.png">
+      <publishTime>05/22/2016 17:12:53</publishTime>
+    </File>
+    <File Include="Content/img/linkedin.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/listado.png">
+      <publishTime>05/22/2016 17:43:52</publishTime>
+    </File>
+    <File Include="Content/img/loading.gif">
+      <publishTime>05/14/2016 11:51:40</publishTime>
+    </File>
+    <File Include="Content/img/logo.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/marcoDeTrabajo.png">
+      <publishTime>05/13/2016 18:55:11</publishTime>
+    </File>
+    <File Include="Content/img/mensaje.png">
+      <publishTime>05/13/2016 18:55:12</publishTime>
+    </File>
+    <File Include="Content/img/moneda.png">
+      <publishTime>05/16/2016 16:26:54</publishTime>
+    </File>
+    <File Include="Content/img/myPhoto.jpg">
+      <publishTime>05/22/2016 18:20:59</publishTime>
+    </File>
+    <File Include="Content/img/telef.png">
+      <publishTime>05/13/2016 18:55:12</publishTime>
+    </File>
+    <File Include="Content/img/today.png">
+      <publishTime>05/20/2016 16:46:02</publishTime>
+    </File>
+    <File Include="Content/img/tutorial.png">
+      <publishTime>05/22/2016 17:38:54</publishTime>
+    </File>
+    <File Include="Content/img/video.png">
+      <publishTime>05/16/2016 16:26:54</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_222222_256x240.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_454545_256x240.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_888888_256x240.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery-ui.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.accordion.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.all.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.autocomplete.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.base.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.button.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.core.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.datepicker.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.dialog.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.progressbar.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.resizable.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.selectable.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.slider.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.tabs.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.theme.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_222222_256x240.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_454545_256x240.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_888888_256x240.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery-ui.min.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.accordion.min.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.autocomplete.min.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.button.min.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.core.min.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.datepicker.min.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.dialog.min.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.progressbar.min.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.resizable.min.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.selectable.min.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.slider.min.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.tabs.min.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.theme.min.css">
+      <publishTime>05/13/2016 18:40:23</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>05/13/2016 18:54:58</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/13/2016 18:39:57</publishTime>
+    </File>
+    <File Include="Images/accent.png">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Images/bullet.png">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Images/heroAccent.png">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Images/orderedList0.png">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Images/orderedList1.png">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Images/orderedList2.png">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Images/orderedList3.png">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Images/orderedList4.png">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Images/orderedList5.png">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Images/orderedList6.png">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Images/orderedList7.png">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Images/orderedList8.png">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Images/orderedList9.png">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/17/2016 10:05:19</publishTime>
+    </File>
+    <File Include="Scripts/forex.js">
+      <publishTime>05/22/2016 19:29:20</publishTime>
+    </File>
+    <File Include="Scripts/getDelUpdtNotes.js">
+      <publishTime>05/22/2016 13:50:04</publishTime>
+    </File>
+    <File Include="Scripts/getDelUpdtRates.js">
+      <publishTime>05/22/2016 14:39:07</publishTime>
+    </File>
+    <File Include="Scripts/mainHistoricalRates.js">
+      <publishTime>05/22/2016 13:21:12</publishTime>
+    </File>
+    <File Include="Scripts/mainRealTime.js">
+      <publishTime>05/21/2016 18:55:06</publishTime>
+    </File>
+    <File Include="Scripts/manageNotes.js">
+      <publishTime>05/20/2016 17:06:18</publishTime>
+    </File>
+    <File Include="Scripts/setNotes.js">
+      <publishTime>05/21/2016 15:07:00</publishTime>
+    </File>
+    <File Include="Scripts/setRates.js">
+      <publishTime>05/21/2016 17:48:15</publishTime>
+    </File>
+    <File Include="Scripts/useForexCharts.js">
+      <publishTime>05/19/2016 22:43:47</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/fastclick.js">
+      <publishTime>05/13/2016 18:54:33</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.abide.js">
+      <publishTime>05/13/2016 18:54:33</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.accordion.js">
+      <publishTime>05/13/2016 18:54:33</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.alert.js">
+      <publishTime>05/13/2016 18:54:33</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.clearing.js">
+      <publishTime>05/13/2016 18:54:32</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.dropdown.js">
+      <publishTime>05/13/2016 18:54:32</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.equalizer.js">
+      <publishTime>05/13/2016 18:54:32</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.interchange.js">
+      <publishTime>05/13/2016 18:54:32</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.joyride.js">
+      <publishTime>05/13/2016 18:54:32</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.js">
+      <publishTime>05/13/2016 18:54:32</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.magellan.js">
+      <publishTime>05/13/2016 18:54:32</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.offcanvas.js">
+      <publishTime>05/13/2016 18:54:32</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.orbit.js">
+      <publishTime>05/13/2016 18:54:32</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.reveal.js">
+      <publishTime>05/13/2016 18:54:32</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.slider.js">
+      <publishTime>05/13/2016 18:54:32</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.tab.js">
+      <publishTime>05/13/2016 18:54:32</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.tooltip.js">
+      <publishTime>05/13/2016 18:54:32</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/foundation.topbar.js">
+      <publishTime>05/16/2016 16:39:19</publishTime>
+    </File>
+    <File Include="Scripts/vendors/foundation/jquery.cookie.js">
+      <publishTime>05/13/2016 18:54:32</publishTime>
+    </File>
+    <File Include="Scripts/vendors/grid.js">
+      <publishTime>05/17/2016 12:59:29</publishTime>
+    </File>
+    <File Include="Scripts/vendors/grid.min.js">
+      <publishTime>05/17/2016 10:05:19</publishTime>
+    </File>
+    <File Include="Scripts/vendors/jquery-1.9.1.js">
+      <publishTime>05/17/2016 10:05:17</publishTime>
+    </File>
+    <File Include="Scripts/vendors/jquery-1.9.1.min.js">
+      <publishTime>05/17/2016 10:05:17</publishTime>
+    </File>
+    <File Include="Scripts/vendors/jquery-1.9.1.min.map">
+      <publishTime>05/17/2016 10:05:17</publishTime>
+    </File>
+    <File Include="Scripts/vendors/jquery-ui-1.8.24.js">
+      <publishTime>05/13/2016 18:40:22</publishTime>
+    </File>
+    <File Include="Scripts/vendors/jquery-ui-1.8.24.min.js">
+      <publishTime>05/13/2016 18:40:22</publishTime>
+    </File>
+    <File Include="Scripts/vendors/jquery.unobtrusive-ajax.js">
+      <publishTime>05/13/2016 18:40:25</publishTime>
+    </File>
+    <File Include="Scripts/vendors/jquery.unobtrusive-ajax.min.js">
+      <publishTime>05/13/2016 18:40:25</publishTime>
+    </File>
+    <File Include="Scripts/vendors/jquery.validate.js">
+      <publishTime>05/13/2016 18:40:20</publishTime>
+    </File>
+    <File Include="Scripts/vendors/jquery.validate.min.js">
+      <publishTime>05/13/2016 18:40:20</publishTime>
+    </File>
+    <File Include="Scripts/vendors/jquery.validate.unobtrusive.js">
+      <publishTime>05/13/2016 18:40:24</publishTime>
+    </File>
+    <File Include="Scripts/vendors/jquery.validate.unobtrusive.min.js">
+      <publishTime>05/13/2016 18:40:24</publishTime>
+    </File>
+    <File Include="Scripts/vendors/knockout-2.2.0.debug.js">
+      <publishTime>05/13/2016 18:40:55</publishTime>
+    </File>
+    <File Include="Scripts/vendors/knockout-2.2.0.js">
+      <publishTime>05/13/2016 18:40:55</publishTime>
+    </File>
+    <File Include="Scripts/vendors/modernizr-2.6.2.js">
+      <publishTime>05/13/2016 18:40:26</publishTime>
+    </File>
+    <File Include="Scripts/vendors/money.js">
+      <publishTime>05/22/2016 18:39:35</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>05/17/2016 10:05:19</publishTime>
+    </File>
+    <File Include="Views/Account/ExternalLoginConfirmation.cshtml">
+      <publishTime>05/13/2016 18:57:19</publishTime>
+    </File>
+    <File Include="Views/Account/ExternalLoginFailure.cshtml">
+      <publishTime>05/13/2016 18:57:21</publishTime>
+    </File>
+    <File Include="Views/Account/Login.cshtml">
+      <publishTime>05/13/2016 18:57:21</publishTime>
+    </File>
+    <File Include="Views/Account/Manage.cshtml">
+      <publishTime>05/13/2016 18:57:21</publishTime>
+    </File>
+    <File Include="Views/Account/Register.cshtml">
+      <publishTime>05/13/2016 18:57:21</publishTime>
+    </File>
+    <File Include="Views/Account/_ChangePasswordPartial.cshtml">
+      <publishTime>05/13/2016 18:57:21</publishTime>
+    </File>
+    <File Include="Views/Account/_ExternalLoginsListPartial.cshtml">
+      <publishTime>05/13/2016 18:57:21</publishTime>
+    </File>
+    <File Include="Views/Account/_RemoveExternalLoginsPartial.cshtml">
+      <publishTime>05/13/2016 18:57:21</publishTime>
+    </File>
+    <File Include="Views/Account/_SetPasswordPartial.cshtml">
+      <publishTime>05/13/2016 18:57:21</publishTime>
+    </File>
+    <File Include="Views/ExchangeRates/Index.cshtml">
+      <publishTime>05/22/2016 14:57:13</publishTime>
+    </File>
+    <File Include="Views/ExchangeRates/TutorialExchangeRates.cshtml">
+      <publishTime>05/22/2016 14:57:25</publishTime>
+    </File>
+    <File Include="Views/ForexRealTime/Index.cshtml">
+      <publishTime>05/21/2016 21:03:56</publishTime>
+    </File>
+    <File Include="Views/ForexRealTime/TutorialCambioCruzado.cshtml">
+      <publishTime>05/19/2016 23:27:46</publishTime>
+    </File>
+    <File Include="Views/ForexRealTime/_IndividualNote.cshtml">
+      <publishTime>05/21/2016 15:00:14</publishTime>
+    </File>
+    <File Include="Views/ForexRealTime/_IndividualNotesList.cshtml">
+      <publishTime>05/21/2016 17:27:30</publishTime>
+    </File>
+    <File Include="Views/ForexRealTime/_RatesCompare.cshtml">
+      <publishTime>05/21/2016 21:49:48</publishTime>
+    </File>
+    <File Include="Views/ForexRealTime/_RatesNote.cshtml">
+      <publishTime>05/22/2016 19:24:08</publishTime>
+    </File>
+    <File Include="Views/ForexRealTime/_RatesNotesList.cshtml">
+      <publishTime>05/21/2016 17:24:17</publishTime>
+    </File>
+    <File Include="Views/HistoricalForex/Index.cshtml">
+      <publishTime>05/22/2016 13:21:24</publishTime>
+    </File>
+    <File Include="Views/HistoricalForex/TutorialHistoricalForex.cshtml">
+      <publishTime>05/19/2016 23:29:27</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>05/22/2016 18:28:57</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.cshtml">
+      <publishTime>05/16/2016 16:53:52</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>05/22/2016 17:50:04</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>05/22/2016 18:30:22</publishTime>
+    </File>
+    <File Include="Views/Shared/_LoginPartial.cshtml">
+      <publishTime>05/13/2016 18:57:45</publishTime>
+    </File>
+    <File Include="Views/Tutorial/Index.cshtml">
+      <publishTime>05/22/2016 15:01:24</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>05/13/2016 18:39:57</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>05/13/2016 18:39:56</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/22/2016 19:50:14</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -19,4 +19,5 @@ Lenguajes, plataformas y herramientas utilizadas
 - Modernizr
 - Zurb Foundation 5 (HTML5 Boilerplate)
 - Hightcharts
+- Gigjo grids
 - Desarrollado con Visual Studio 2012

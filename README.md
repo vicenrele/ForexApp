@@ -16,7 +16,7 @@ Video demo: https://www.youtube.com/watch?v=ENRuqcz25Ew
 Lenguajes, plataformas y herramientas utilizadas
 ===================================================
 - C#, ASP.NET Framework MVC4 
-- HTML5, CSS3, Normalizer
+- HTML5, CSS3, Normalize
 - Javascript, jQuery, jQuery Validation
 - Modernizr
 - Zurb Foundation 5 (HTML5 Boilerplate)

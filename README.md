@@ -10,6 +10,8 @@ Aplicación educativa sobre Mercado Forex. Funcionalidades:
  - Conversor de divisas. Las consultas se almacenan para tener históricos.
  - Tutorial de uso de la aplicación.
  
+Video demo: https://www.youtube.com/watch?v=ENRuqcz25Ew
+
 
 Lenguajes, plataformas y herramientas utilizadas
 ===================================================
